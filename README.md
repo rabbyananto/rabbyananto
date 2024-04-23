@@ -1,7 +1,7 @@
-[![MasterHead](https://mdabdullaalrabby.netlify.app/)](https://mdabdullaalrabby.netlify.app/)
+[![MasterHead](https://pamiralpha.com/wp-content/uploads/2019/10/website.gif)](https://mdabdullaalrabby.netlify.app/)
 <h1 align="center">Hi 👋, I'm Md Abdulla Al Rabby</h1>
 <h3 align="center">A passionate Frontend Developer | UI UX Designer | Tech Enthusiast Based in Deutschland</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fglobaledu.net.in%2Ffront-end-development&psig=AOvVaw3OQhTAXTxoiwgbq6PjaTla&ust=1713997579838000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLj079iw2YUDFQAAAAAdAAAAABAJ")
+(img align="right" alt="Coding" width="400" src="https://pamiralpha.com/wp-content/uploads/2019/10/website.gif")
 
 - 🌱 I’m currently learning **NextJs,Redux,NodeJs,ExpressJs,MongoDB**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mdabdullaalrabby**
 
-- 📄 Know about my experiences [nkedin.com/in/mdabdullaalrabby/](nkedin.com/in/mdabdullaalrabby/)
+- 📄 Know about my experiences [linkedin.com/in/mdabdullaalrabby/](linkedin.com/in/mdabdullaalrabby/)
 
 - ⚡ Fun fact **I am a passionate Photographer and Cinematographer too.**
 
