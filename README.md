@@ -1,7 +1,7 @@
 [![MasterHead](https://pamiralpha.com/wp-content/uploads/2019/10/website.gif)](https://mdabdullaalrabby.netlify.app/)
 <h1 align="center">Hi 👋, I'm Md Abdulla Al Rabby</h1>
 <h3 align="center">A passionate Frontend Developer | UI UX Designer | Tech Enthusiast Based in Deutschland</h3>
-(img align="right" alt="Coding" width="400" src="https://pamiralpha.com/wp-content/uploads/2019/10/website.gif")
+<img align="right" alt="Coding" width="400" src="https://pamiralpha.com/wp-content/uploads/2019/10/website.gif"/>
 
 - 🌱 I’m currently learning **NextJs,Redux,NodeJs,ExpressJs,MongoDB**
 
